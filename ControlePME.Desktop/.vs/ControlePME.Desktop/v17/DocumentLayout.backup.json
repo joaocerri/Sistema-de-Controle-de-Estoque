@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "ControlePME.Desktop\\Models\\MovimentacaoEstoque.cs",
               "ToolTip": "C:\\Users\\Dkz\\Desktop\\Projeto-C#\\ControlePME.Desktop\\ControlePME.Desktop\\Models\\MovimentacaoEstoque.cs",
               "RelativeToolTip": "ControlePME.Desktop\\Models\\MovimentacaoEstoque.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T17:54:17.94Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ControlePME.Desktop\\Models\\ItemVenda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:52:48.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:52:48.129Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "ControlePME.Desktop\\Models\\Venda.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:51:48.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:51:48.321Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "ControlePME.Desktop\\Models\\Produtos.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA1wAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:50:26.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:50:26.969Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "ControlePME.Desktop\\Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:49:29.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:49:29.027Z"
             }
           ]
         }
